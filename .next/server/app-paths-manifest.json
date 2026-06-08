@@ -1,0 +1,8 @@
+{
+  "/login/page": "app/login/page.js",
+  "/(portal)/suppliers/page": "app/(portal)/suppliers/page.js",
+  "/(portal)/dashboard/page": "app/(portal)/dashboard/page.js",
+  "/(portal)/purchase-orders/page": "app/(portal)/purchase-orders/page.js",
+  "/(portal)/invoices/new/page": "app/(portal)/invoices/new/page.js",
+  "/(portal)/rfq/new/page": "app/(portal)/rfq/new/page.js"
+}
